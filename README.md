@@ -1,150 +1,108 @@
-<div align="center">
+# Hi 👋, I'm Adnan Navid
+### 🔭 I build things with JavaScript, React, and Node.js
 
-  <h1>👋 Hi, I'm Adnan Navid</h1>
+---
 
-  <h3>MERN Stack Developer | Web Developer | Problem Solver</h3>
+## 👨‍💻 About Me
 
-  <p>
-    <strong>Learning • Building • Solving • Improving 🚀</strong>
-  </p>
+I'm a passionate **MERN Stack Developer** who enjoys building modern web applications and continuously improving my development skills.
 
-</div>
+I love working with **JavaScript, TypeScript, React, Node.js, Express, and MongoDB**, and I'm always learning new technologies to become a better developer.
 
-<br/>
+Currently, I'm focused on expanding my knowledge in **React, Node.js, Express, MongoDB, TypeScript, and Data Structures & Algorithms** while practicing problem solving through coding platforms.
 
-<div align="center">
+Feel free to reach out if you want to talk about **web development, programming, or cool tech ideas!**
 
-  <img src="https://komarev.com/ghpvc/?username=Navidcoding686&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" />
+---
 
-</div>
+## 🛠️ Tech Stack
 
-<br/>
+### **Frontend**
 
-<h2>👨‍💻 About Me</h2>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 
-<p>
-  I'm a <strong>MERN Stack Developer</strong> passionate about building modern web applications
-  and continuously improving my development and problem-solving skills.
-</p>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-<p><strong>Currently focused on:</strong></p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-<ul>
-  <li>⚛️ Building modern web applications with React</li>
-  <li>🟢 Learning backend development with Node.js & Express</li>
-  <li>🍃 Working with MongoDB</li>
-  <li>📘 Improving my JavaScript & TypeScript skills</li>
-  <li>🧠 Practicing Data Structures & Algorithms</li>
-  <li>💻 Solving programming problems on LeetCode & Codeforces</li>
-</ul>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-<h2>🛠️ Tech Stack</h2>
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-<h3>💻 Languages</h3>
+### **Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
-<h3>🎨 Frontend</h3>
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-<h3>⚙️ Backend & Database</h3>
+### **Programming & Problem Solving**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-<h3>🔧 Tools</h3>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge)
 
-<br/>
+### **Tools & Others**
 
-<h2>📚 Currently Learning</h2>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-<ul>
-  <li>⚛️ React.js</li>
-  <li>🟢 Node.js & Express.js</li>
-  <li>🍃 MongoDB</li>
-  <li>📘 TypeScript</li>
-  <li>🧠 Data Structures & Algorithms</li>
-</ul>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-<br/>
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-<h2>💻 Problem Solving</h2>
+---
 
-<p>
-  I regularly practice programming problems to improve my
-  <strong>Data Structures, Algorithms, Logical Thinking and Problem Solving</strong> skills.
-</p>
+## 📚 Currently Learning
 
-<div align="center">
+- ⚛️ React.js
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 📘 TypeScript
+- 🧠 Data Structures & Algorithms
 
-  <a href="https://leetcode.com/u/Adnan_Navid/">
-    <img src="https://img.shields.io/badge/LeetCode-Adnan_Navid-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+---
 
-  <a href="https://codeforces.com/profile/CR7NAVEO">
-    <img src="https://img.shields.io/badge/Codeforces-CR7NAVEO-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+## 💻 Competitive Programming
 
-</div>
+I practice programming problems to improve my **problem-solving, algorithms, and data structures** skills.
 
-<br/>
+### LeetCode
 
-<h2>📊 GitHub Analytics</h2>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Adnan_Navid-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Adnan_Navid/)
+
+### Codeforces
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-CR7NAVEO-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CR7NAVEO)
+
+---
+
+## 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1HgKW6r9Yo/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnannavid@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Navidcoding686&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navidcoding686&layout=compact&theme=default) |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=Navidcoding686&style=flat-square)
+
+---
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Navidcoding686&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navidcoding686&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navidcoding686&theme=tokyonight&hide_border=true" />
+### 🚀 Keep Learning • Keep Building • Keep Improving
 
 </div>
-
-<br/>
-
-<h2>🎯 My Goals</h2>
-
-<ul>
-  <li>🚀 Become a strong Full Stack Developer</li>
-  <li>🏗️ Build real-world MERN applications</li>
-  <li>🧠 Improve my DSA & problem-solving skills</li>
-  <li>💡 Write clean and maintainable code</li>
-  <li>🌍 Contribute to meaningful open-source projects</li>
-  <li>📈 Keep learning and improving every day</li>
-</ul>
-
-<br/>
-
-<h2>🌐 Connect With Me</h2>
-
-<div align="center">
-
-  <a href="https://www.facebook.com/share/1HgKW6r9Yo/">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <a href="mailto:adnannavid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adnannavid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
-<br/>
-
