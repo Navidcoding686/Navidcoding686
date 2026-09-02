@@ -148,12 +148,3 @@
 
 <br/>
 
-<div align="center">
-
-  <h3>✨ Thanks for visiting my profile! ✨</h3>
-
-  <p>
-    <i>Keep Learning • Keep Building • Keep Improving 🚀</i>
-  </p>
-
-</div>
