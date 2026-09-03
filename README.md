@@ -1,3 +1,4 @@
+<img src="./profile-banner.png" width="100%" alt="Profile Banner">
 # 💫 About Me:
 I'm a passionate MERN Stack Developer who enjoys building modern web applications and continuously improving my development skills.<br><br>
 
